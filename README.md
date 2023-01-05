@@ -1,9 +1,7 @@
 ## 🤔 **About Me**
 
 `prof`
-  - Dreaming Frontend Developer + Designer
-  - 27 years old
-  - MBTI : ISFJ
+  - I'm preparing Frontend Developer + Designer
 
 `experience`
   - Hanyang University ERICA B.arch (15'~21')
