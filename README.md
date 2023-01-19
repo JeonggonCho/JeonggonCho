@@ -1,6 +1,6 @@
 ## 🤔 **About Me**
 
-`prof`
+`profile`
   - I'm preparing Frontend Developer + Designer
 
 `experience`
