@@ -1,7 +1,7 @@
 ## 🤔 **About Me**
 
 `profile`
-  - I'm preparing Full-stack Developer + Designer
+  - I'm preparing Full-stack Developer
 
 `experience`
   - Hanyang University ERICA B.arch. ('15~'21)
